@@ -1,3 +1,3 @@
 # Todo List
 
-Demo: https://erdemarslan.net/examples/TodoList/
+Demo: https://erdemarslan.net/examples/TodoList/todo.html
